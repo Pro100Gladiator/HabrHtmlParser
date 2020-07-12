@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabrHtmlParser", "HabrHtmlParser.csproj", "{A7C288DD-666A-4345-A9F5-09CB55ACF767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C288DD-666A-4345-A9F5-09CB55ACF767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C288DD-666A-4345-A9F5-09CB55ACF767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C288DD-666A-4345-A9F5-09CB55ACF767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C288DD-666A-4345-A9F5-09CB55ACF767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB399E8-BBFB-45B9-AB2D-3D2505BC8CF1}
+	EndGlobalSection
+EndGlobal
